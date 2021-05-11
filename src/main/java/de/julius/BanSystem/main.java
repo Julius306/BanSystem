@@ -7,6 +7,7 @@ public class main extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("The plugin is now starting");
+        System.out.println("Test");
     }
 
     @Override
