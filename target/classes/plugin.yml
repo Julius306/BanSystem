@@ -1,6 +1,0 @@
-main: de.julius.BanSystem.main
-name: BanSystem
-version: 0.1
-commands:
-  ban:
-    description: Ban other players
